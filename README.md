@@ -6,5 +6,3 @@ Language I can work with
 1. Javascript
 2. HTML
 3. CSS
-new 
-s
